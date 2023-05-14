@@ -22,6 +22,7 @@ class AplhalabTask2ApplicationTests {
 
 //        then:
         assertEquals(5, map.size());
+
         assertEquals(3, map.get(NAME_1).size());
         assertEquals(3, map.get(NAME_2).size());
         assertEquals(2, map.get(NAME_3).size());
